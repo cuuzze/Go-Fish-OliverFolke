@@ -25,14 +25,22 @@ namespace GoFish
         private void InitGame()
         {
             Console.WriteLine("\nHello! Welcome to a game of Go fish! Are you ready?");
-            Console.WriteLine("\n\nWhat is your name Player one? ");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("\nThe rules are simple, once per turn you're allowed to either draw a random card from the deck (Go Fish)," +
+                "\nor ask the other player if they have any cards of the rank you're searching for, if they do they give you those cards!" +
+                "\nYou get a point each time you achieve four of a kind, and the player" +
+                "\nwith the most amount of points when the deck of cards runs out is the winner! Good luck :) ");
+            Console.ReadLine();
+            Console.Clear();
+
+            Console.WriteLine("\nWhat is your name Player one? ");
             player1.Name = Console.ReadLine();
 
             Console.WriteLine($"\nWelcome {player1.Name}");
             Console.Clear();
-
-            Console.WriteLine("\nHello! Welcome to a game of Go fish! Are you ready?");
-            Console.WriteLine("\n\nWhat is your name Player two? ");
+            
+            Console.WriteLine("\nWhat is your name Player two? ");
             player2.Name = Console.ReadLine();
             Console.WriteLine($"\nWelcome {player2.Name}");
             Console.Clear();
@@ -131,7 +139,7 @@ namespace GoFish
             bool stop = false;
             do            // I did this DoWhile because the swich above breaks on using non numbers and this was a way to get around it ^^
             {                
-                Console.WriteLine($"What action do you want to make {currentPlayer.Name}");
+                Console.WriteLine($"\nWhat action do you want to make {currentPlayer.Name}");
                 Console.WriteLine($"\nYour current cards are: {currentPlayer.ShowHand()}");
                 Console.WriteLine("\n1 : Go Fish! (Draw a card)");
                 Console.WriteLine("2 : Ask opponent for a card\n");
@@ -283,7 +291,7 @@ namespace GoFish
                 List<Card> stolenCards = player2.GotCard(askedForCard);              
                 player1.AddStolenCards(stolenCards);
 
-                Console.WriteLine($"You got {PrintCards(stolenCards)} from { player2.Name}, better luck next time!");
+                Console.WriteLine($"You got {PrintCards(stolenCards)} from { player2.Name}");
                 Console.ReadLine();
             }
             else
@@ -301,7 +309,7 @@ namespace GoFish
             {
                 if(player1.Points > player2.Points)
                 {
-                    Console.WriteLine($"Congratulations {player1.Name} you got {player1.Points} and won the game!");                   
+                    Console.WriteLine($"Congratulations {player1.Name} you got {player1.Points} points and won the game!");                   
                     Console.ReadLine();
                     gameOver = true;
                 }

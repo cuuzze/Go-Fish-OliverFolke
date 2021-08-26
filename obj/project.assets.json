@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\example deck of cards oop\\Go Fish.csproj",
+      "projectUniqueName": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\Go-Fish\\example deck of cards oop\\Go Fish.csproj",
       "projectName": "Go Fish",
-      "projectPath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\example deck of cards oop\\Go Fish.csproj",
+      "projectPath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\Go-Fish\\example deck of cards oop\\Go Fish.csproj",
       "packagesPath": "C:\\Users\\Olli_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\example deck of cards oop\\obj\\",
+      "outputPath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\Go-Fish\\example deck of cards oop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Olli_\\AppData\\Roaming\\NuGet\\NuGet.Config",

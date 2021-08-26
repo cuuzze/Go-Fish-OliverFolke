@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lyNxfEhseiBn7kY0ZENiYhatIF1xdiRDlJX65C3C1w8MOwUS2gpETcTilLZpVZwttR9oGiERUp/HXNVSY/T03w==",
+  "dgSpecHash": "roiaFnjU2E2vagBt8ITqn6iU+Dr6L+gPDPhTtfExZLZrujlyvNQOvB/Gi9OY5JjHDN5os7+KCKhXInRU0xItqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\example deck of cards oop\\Go Fish.csproj",
+  "projectFilePath": "C:\\Users\\Olli_\\source\\repos\\Go Fish - Oliver\\Go-Fish\\example deck of cards oop\\Go Fish.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
