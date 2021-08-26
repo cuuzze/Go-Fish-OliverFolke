@@ -1,0 +1,26 @@
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.exe
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.deps.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.runtimeconfig.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.runtimeconfig.dev.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.dll
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.pdb
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.csprojAssemblyReference.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.AssemblyInfoInputs.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.AssemblyInfo.cs
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.csproj.CoreCompileInputs.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.dll
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.pdb
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.genruntimeconfig.cache
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.exe
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.deps.json
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.runtimeconfig.json
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.runtimeconfig.dev.json
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.dll
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\bin\Debug\netcoreapp3.1\Go Fish.pdb
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.csprojAssemblyReference.cache
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.AssemblyInfoInputs.cache
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.AssemblyInfo.cs
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.csproj.CoreCompileInputs.cache
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.dll
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.pdb
+C:\Users\Olli_\source\repos\Go Fish - Oliver\example deck of cards oop\obj\Debug\netcoreapp3.1\Go Fish.genruntimeconfig.cache

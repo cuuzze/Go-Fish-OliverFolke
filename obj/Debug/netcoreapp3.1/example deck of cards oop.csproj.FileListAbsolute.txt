@@ -1,0 +1,13 @@
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.exe
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.deps.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.runtimeconfig.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.runtimeconfig.dev.json
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.dll
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\bin\Debug\netcoreapp3.1\example deck of cards oop.pdb
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.csprojAssemblyReference.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.AssemblyInfoInputs.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.AssemblyInfo.cs
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.csproj.CoreCompileInputs.cache
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.dll
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.pdb
+C:\Users\Olli_\source\repos\example deck of cards oop\example deck of cards oop\obj\Debug\netcoreapp3.1\example deck of cards oop.genruntimeconfig.cache
